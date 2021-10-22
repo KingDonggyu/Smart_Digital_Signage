@@ -1,6 +1,6 @@
 ### LG_SoftIndia_Hackathon - Gold Award🥇
 
-<img width="914" alt="상장" src="https://user-images.githubusercontent.com/33220404/138395230-4f27ded3-3008-4898-8fa7-3423d34e93c4.png">
+<img width="800" alt="cert" src="https://user-images.githubusercontent.com/33976823/137708364-cbb7f908-726d-4375-aabd-835d28e61825.png">
 
 # Smart Digital Signage (for visually impaired)
 
